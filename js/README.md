@@ -1,0 +1,1 @@
+This page has been created as an assignment for CSIS3380 course. It required some techniques using AJAX and JQUERY getting data from a Public Api that provided a Random Users list. This way it could simulate a Company Directory.
